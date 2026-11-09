@@ -1,35 +1,30 @@
-# Assignment 2-3 Part B – IDE Features Reflection
+# Assignment 2-3 Part B – IDE Features Reflection 
 
-## Introduction
+## Feature 1 – Syntax Highlighting
 
-> Write a short reflection on your experience using the course IDE to complete your first programming assignment. Briefly describe what it was like to write, run, and test code in an IDE for the first time. Introduce the three IDE features you selected and briefly explain why learning to use IDE features can help you as a beginning programmer. Save specific examples for the feature sections below. Delete these instructions when done.
+>When I first started using Visual Studio Code, I wasn't really familiar with how everything worked. It took me some time to figure out where to enter my code and how to rum the program. I did run into a few problems along the way, but i was able to fix them and get my program working correctly. I also learned how to test my code to make sure everything was right. Some features that I found helpful were syntax highlighting, the terminal, and error messages. I think these features are useful because they help beginners like me understand coding better and figure out what needs to be fixed
 
-TODO: Replace with your introduction here.
 
-## Feature 1 – TODO: Replace with name of your Feature1
 
-> In one paragraph, identify the first feature you selected, explain what it does, and describe how it helped you while developing or testing your program. Include specific details about how it improved your workflow, made coding easier, or helped you find and fix errors more efficiently. Delete these instructions when done.
+## Feature 2 – Integrated Terminal
 
-TODO: Replace with your Feature 1 paragraph here.
+>Another feature that helped me was the terminal in Visual Studio Code. I was able to use it to run my Python program and see if everything was working correctly. At first, I wasn't sure what commands to type or how to use it, but after practicing, I started getting the hang of it. I liked being able to see my results right there without having to open another program. The terminal also helped me test my assignment, and I was able to see that all five of my tests passed.
 
-## Feature 2 – TODO: Replace with name of your Feature2
 
-> Write one paragraph explaining your second feature. Describe how it functions, what benefits it provided while coding, and why it might be valuable for beginning programmers. Connect the feature to your personal experience using it in this project. Delete these instructions when done.
 
-TODO: Replace with your Feature 2 paragraph here.
+## Feature 3 – Error Messages
 
-## Feature 3 – TODO: Replace with name of your Feature3
+> The third featuer I found helpful was the error messages in Visual Studio Code. While working on my Python assignment, I made a mistake with the spacing in my code, and my program wouldn't run correctly. The error message showed me which line was causing the problem, so I knew where to look. At first, I didn't understand what the error ment, but once I figured it out, I was able to fix my code and run the program successfully. I thnk this feature is important because mistakes are going to happen when learning something new, and error messages help you understand what went wrong.
 
-> In a single paragraph, identify and explain a third IDE feature. Discuss how it enhanced your programming experience or supported best practices such as readability, debugging, or organization. Give a brief, real example of how you used it. Delete these instructions when done.
 
-TODO: Replace with your Feature 3 paragraph here.
 
 ## Conclusion
 
-> Summarize what you learned from using your IDE in this assignment. Reflect on how these features will support your future programming work and improve your confidence as a new programmer. Delete these instructions when done.
+>Overall, using Visual Studio Code was a learning experience for me. I struggled with a few things in the beginning, but I was able to figure them out as I went along. The syntax highlighting, terminal, and error message made it easier for me to understand what I was doing and correct my mistakes. I still have a lot to learn about Python, but i feel more comfortable using the program now than I did when I first started. I think these features will continue to help me as I work on future assignments.
 
-TODO: Replace with your conclusion here.
+
 
 ## References
 
-TODO: Replace with your source citations here in APA style, if any. Delete section heading and this text if not used.
+Microsoft. (n.d.). Documentation for Visual Studio Code.
+https://code.visualstudio.com/docs
